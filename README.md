@@ -1,1 +1,1 @@
-An exploratory analysis of the 2017 Stack Overflow Developer Survey, primarily as a means of practicing Pandas and statistics. Data courtesy of Stack Overflow.
+An exploratory analysis of the 2017 Stack Overflow Developer Survey, primarily as a means of practicing Pandas and trying out all the Python plotting tools. Data courtesy of Stack Overflow.
