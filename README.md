@@ -1,1 +1,11 @@
-An exploratory analysis of the 2017 Stack Overflow Developer Survey, primarily as a means of practicing Pandas and trying out all the Python plotting tools. Data courtesy of Stack Overflow.
+## Stack Overflow Exploratory Analysis
+Author: Emily Quinn Finney
+
+An exploratory analysis conducted using data obtained from the 2017 Stack 
+Overflow Developer Survey (https://insights.stackoverflow.com/survey/2017).
+I primarily conducted this analysis as a means of practicing Pandas and
+comparing Python plotting tools. The modules in this repository are intended 
+to be quick exploratory analyses and as such do not contain careful testing 
+or code design. 
+
+Last edited 10/24/2017
